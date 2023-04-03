@@ -16,7 +16,7 @@ public class Ejercicio_03 {
             los resultados deben estar en el archivo de salida.
          */
 
-         if (args.length != 4) {
+        if (args.length != 4) {
             System.out.println("Debe ingresar ruta del archivo de entrada, ruta del archivo de salida, 'c' si es para codificar, 'd' si es para decodificar y el desplazamiento.");
             return;
         }

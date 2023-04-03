@@ -1,4 +1,6 @@
-public class ClaseUno {
+package Clase01;
+
+public class Resolcion {
 
     public static void main(String[] args) {
 
